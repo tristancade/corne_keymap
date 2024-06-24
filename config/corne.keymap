@@ -16,6 +16,11 @@
             bindings = <&kp BACKSPACE>;
             key-positions = <9 10>;
         };
+
+        return {
+            bindings = <&kp RET>;
+            key-positions = <21 22>;
+        };
     };
 
     keymap {
